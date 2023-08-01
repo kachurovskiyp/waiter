@@ -1,4 +1,5 @@
-Replit link: [waiter.pavielkachurovs.repl.co](https://waiter--pavielkachurovs.repl.co/)
+# Replit link: 
+https://waiter.pavielkachurovs.repl.co
 
 # Getting Started with Create React App
 
