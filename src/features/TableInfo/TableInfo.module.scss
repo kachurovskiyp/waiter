@@ -1,0 +1,32 @@
+.tableInfo {
+  padding-top: 20px;
+}
+
+.tableForm {
+  width: 30%;
+
+  & input {
+    display: inline-block;
+    width: auto;
+    text-align: center;
+  }
+
+  & input.peopleInput {
+    width: 40px;
+    padding: 5px;
+  }
+
+  & input.billInput {
+    width: 60px;
+  }
+
+  & label {
+    width: 30%;
+  }
+}
+
+.tableFormGroup {
+  display: flex;
+  align-items: center;
+  margin-bottom: 30px;
+}

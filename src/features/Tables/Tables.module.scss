@@ -1,0 +1,29 @@
+.tables {
+  padding-top: 20px;
+}
+
+.tableList {
+  list-style: none;
+  padding: 0;
+}
+
+.tableItem {
+  display: flex;
+  align-items: center;
+
+  min-height: 60px;
+  border-bottom: 1px solid lightgrey;
+}
+
+.tableId {
+  font-weight: bold;
+}
+
+.tableStatus {
+  flex-grow: 3;
+  margin-left: 20px;
+
+  & span {
+    font-weight: bold;
+  }
+}
